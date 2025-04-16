@@ -1,6 +1,6 @@
 pipeline{
 agent {
-  label "java_slave_node'
+  label "java_slave_node"
 }
 stages{
 stage("print info")
